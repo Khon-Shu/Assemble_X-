@@ -1,0 +1,101 @@
+id,model_name,brand,form_factor,max_gpu_length,estimated_power,price
+601,O11 Dynamic XL,Lian Li,Full Tower,420,2000,25000
+602,O11 Dynamic EVO,Lian Li,Full Tower,420,1800,22000
+603,O11 Dynamic Mini,Lian Li,Mini Tower,395,1200,18000
+604,Lancool 216,Lian Li,Mid Tower,392,1800,15000
+605,Lancool III,Lian Li,Mid Tower,420,2000,20000
+606,Lancool II Mesh,Lian Li,Mid Tower,384,1800,16000
+607,Lancool 205 Mesh,Lian Li,Mid Tower,330,1600,12000
+608,PC-O11 Dynamic,Lian Li,Full Tower,420,1800,20000
+609,PC-O11 Air,Lian Li,Full Tower,420,1800,18000
+610,PC-O11D XL ROG,ASUS,Full Tower,420,2000,28000
+611,TUF GT501,ASUS,Mid Tower,420,1800,18000
+612,ROG Strix Helios,ASUS,Full Tower,420,2000,35000
+613,Prime AP201,ASUS,Mini Tower,338,1200,10000
+614,ROG Z11,ASUS,Mini Tower,320,1000,22000
+615,TUF Gaming GT302,ASUS,Mid Tower,400,1800,16000
+616,4000D Airflow,Corsair,Mid Tower,360,1800,12000
+617,5000D Airflow,Corsair,Mid Tower,400,2000,18000
+618,7000D Airflow,Corsair,Full Tower,450,2000,25000
+619,4000X RGB,Corsair,Mid Tower,360,1800,15000
+620,5000X RGB,Corsair,Mid Tower,400,2000,20000
+621,Obsidian 1000D,Corsair,Super Tower,500,2000,45000
+622,Crystal 680X,Corsair,Mid Tower,330,1800,22000
+623,Carbide 275R,Corsair,Mid Tower,370,1800,10000
+624,Spec-Delta RGB,Corsair,Mid Tower,350,1600,9000
+625,H510 Flow,NZXT,Mid Tower,381,1650,11000
+626,H510 Elite,NZXT,Mid Tower,381,1650,18000
+627,H7 Flow,NZXT,Mid Tower,400,1850,15000
+628,H7 Elite,NZXT,Mid Tower,400,1850,22000
+629,H9 Flow,NZXT,Mid Tower,435,2000,20000
+630,H9 Elite,NZXT,Mid Tower,435,2000,28000
+631,Source 340,NZXT,Mid Tower,364,1600,8000
+632,Phantom 410,NZXT,Mid Tower,305,1600,7000
+633,Phantom 630,NZXT,Full Tower,490,2000,15000
+634,View 71,Thermaltake,Full Tower,410,2000,22000
+635,View 51,Thermaltake,Full Tower,400,2000,18000
+636,Core P8,Thermaltake,Full Tower,420,2000,25000
+637,Core P7,Thermaltake,Full Tower,420,2000,20000
+638,Core P6,Thermaltake,Mid Tower,400,1800,15000
+639,Core P5,Thermaltake,Mid Tower,330,1600,12000
+640,Core P3,Thermaltake,Mid Tower,320,1600,10000
+641,Level 20 GT,Thermaltake,Full Tower,410,2000,18000
+642,Commander C32,Thermaltake,Mid Tower,320,1600,8000
+643,Commander C35,Thermaltake,Mid Tower,350,1600,9000
+644,Versa H18,Thermaltake,Mini Tower,310,1400,6000
+645,Versa H22,Thermaltake,Mid Tower,315,1600,7000
+646,MasterBox TD500,Cooler Master,Mid Tower,410,1800,13000
+647,MasterBox MB520,Cooler Master,Mid Tower,400,1800,11000
+648,MasterBox Q300L,Cooler Master,Mini Tower,360,1600,7000
+649,MasterBox NR600,Cooler Master,Mid Tower,410,1800,10000
+650,MasterCase H500,Cooler Master,Mid Tower,410,1800,14000
+651,MasterCase SL600M,Cooler Master,Full Tower,413,2000,22000
+652,Cosmos C700P,Cooler Master,Full Tower,490,2000,30000
+653,Silencio S600,Cooler Master,Mid Tower,410,1800,12000
+654,HAF 700 EVO,Cooler Master,Full Tower,492,2000,35000
+655,HAF 500,Cooler Master,Mid Tower,400,1800,15000
+656,Define 7,Fractal Design,Mid Tower,490,2000,18000
+657,Define 7 XL,Fractal Design,Full Tower,550,2000,25000
+658,Define R6,Fractal Design,Mid Tower,440,1800,15000
+659,Define C,Fractal Design,Mid Tower,315,1600,12000
+660,Meshify 2,Fractal Design,Mid Tower,467,2000,16000
+661,Meshify 2 XL,Fractal Design,Full Tower,550,2000,22000
+662,Meshify C,Fractal Design,Mid Tower,315,1600,11000
+663,Pop Air,Fractal Design,Mid Tower,355,1800,10000
+664,Pop Silent,Fractal Design,Mid Tower,355,1800,11000
+665,Vector RS,Fractal Design,Mid Tower,450,2000,20000
+666,Torrent,Fractal Design,Mid Tower,461,2000,18000
+667,Enthoo 719,Phanteks,Full Tower,490,2000,28000
+668,Enthoo Pro 2,Phanteks,Full Tower,490,2000,22000
+669,Enthoo Evolv X,Phanteks,Mid Tower,435,2000,20000
+670,P600S,Phanteks,Mid Tower,435,2000,18000
+671,P500A,Phanteks,Mid Tower,435,2000,16000
+672,P400A,Phanteks,Mid Tower,400,1800,12000
+673,P360A,Phanteks,Mid Tower,400,1800,10000
+674,Metallic Gear Neo Qube,Phanteks,Mid Tower,400,1800,13000
+675,Eclipse P350X,Phanteks,Mid Tower,400,1800,9000
+676,Eclipse P400A,Phanteks,Mid Tower,400,1800,11000
+677,Enthoo Luxe 2,Phanteks,Full Tower,490,2000,25000
+678,Enthoo Primo,Phanteks,Full Tower,490,2000,30000
+679,Enthoo Elite,Phanteks,Full Tower,490,2000,45000
+680,Core X9,Thermaltake,Full Tower,410,2000,18000
+681,Core X5,Thermaltake,Mid Tower,410,1800,15000
+682,Core X2,Thermaltake,Mini Tower,330,1600,10000
+683,Core V1,Thermaltake,Mini Tower,285,1400,8000
+684,Core V21,Thermaltake,Mini Tower,330,1600,9000
+685,Level 20 XT,Thermaltake,Full Tower,400,2000,22000
+686,View 37,Thermaltake,Mid Tower,420,1800,16000
+687,View 32,Thermaltake,Mid Tower,400,1800,14000
+688,View 27,Thermaltake,Mid Tower,380,1600,12000
+689,V200 TG,Thermaltake,Mid Tower,320,1600,7000
+690,S100 TG,Thermaltake,Mini Tower,330,1600,8000
+691,Matrexx 70,Deepcool,Mid Tower,370,1800,9000
+692,Matrexx 55,Deepcool,Mid Tower,370,1800,8000
+693,Matrexx 50,Deepcool,Mid Tower,370,1800,7000
+694,CL500,Deepcool,Mid Tower,370,1800,10000
+695,Macube 550,Deepcool,Mid Tower,400,1800,12000
+696,Tesseract BF,Deepcool,Mid Tower,315,1600,6000
+697,DQ750-M,Deepcool,Mid Tower,400,1800,11000
+698,Genome II,Deepcool,Mid Tower,400,1800,15000
+699,Quadstellar,Deepcool,Full Tower,490,2000,35000
+700,Gamer Storm,Deepcool,Mid Tower,400,1800,13000
