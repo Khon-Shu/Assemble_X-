@@ -394,5 +394,30 @@ CREATE TABLE user_build_table(
       return 0;
     }
   }
+  Future<int> updateAdmin({
+    required int id,
+    String? firstname,
+    String? lastname,
+    String? email,
+    String? password,
+  }) async{
+
+    final db = await database;
+    final Map<String, Object> adminupdate ={};
+    if(firstname !=null) adminupdate["firstname"] = firstname;
+    if(lastname !=null) adminupdate["lastname"] = lastname;
+    if(email != null) adminupdate["email"] = email;
+    if(password != null) adminupdate["password"] = password;
+
+    if(adminupdate.isEmpty) return 0;
+
+  return await db.update(
+  'adminTable',
+  adminupdate,
+  where: 'id = ?',
+  whereArgs: [id]
+  );
+
+}
 }
 

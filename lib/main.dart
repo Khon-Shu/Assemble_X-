@@ -1,3 +1,4 @@
+import 'package:assemblex/admin_page/edit_admin.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:assemblex/user_page/homepage.dart';
@@ -96,7 +97,7 @@ class MyApp extends StatelessWidget {
           ),
         ),
 
-        // ✅ Elevated Buttons
+     
         elevatedButtonTheme: ElevatedButtonThemeData(
           style: ElevatedButton.styleFrom(
             backgroundColor: const Color(0xFF4A90E2),
@@ -110,21 +111,21 @@ class MyApp extends StatelessWidget {
 
      
 
-        // ✅ Icons
+
         iconTheme: const IconThemeData(
           color: Color(0xFF4A90E2),
           size: 22,
         ),
 
-        // ✅ Divider
+    
         dividerTheme: const DividerThemeData(
           color: Color(0xFFE5E7EB),
           thickness: 1,
         ),
       ),
 
-      // ✅ Home Page
-      home: AssembleX_home(),
+    
+      home:  EditAdmin()    //AssembleX_home(),
     );
   }
 }

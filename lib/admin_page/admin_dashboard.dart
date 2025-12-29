@@ -1,7 +1,7 @@
 import 'package:assemblex/admin_page/admininterface/admin_appbar.dart';
 import 'package:assemblex/admin_page/admininterface/admin_bottom_navbar.dart';
 import 'package:assemblex/admin_page/manage_product.dart';
-import 'package:assemblex/admin_page/overview.dart';
+import 'package:assemblex/admin_page/edit_admin.dart';
 import 'package:assemblex/admin_page/users_list_page.dart';
 import 'package:assemblex/admin_page/builds_list_page.dart';
 import 'package:assemblex/services/database_service.dart';
