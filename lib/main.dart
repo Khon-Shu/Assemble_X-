@@ -125,7 +125,7 @@ class MyApp extends StatelessWidget {
       ),
 
     
-      home:  EditAdmin()    //AssembleX_home(),
+      home:  AssembleX_home(),
     );
   }
 }
